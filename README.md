@@ -1,4 +1,4 @@
-# graph_shortest_cycle
+# Graph shortest cycle
 Find shortest cycle in graph using TSP algorithm
 
 ### Vertices
